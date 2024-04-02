@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33381D68-EB15-4435-A162-1E5F4E3F01A5}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\switchdayoftheweek\\switchdayoftheweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33381D68-EB15-4435-A162-1E5F4E3F01A5}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|solutionrelative:switchdayoftheweek\\switchdayoftheweek.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA1615-818D-434B-BB95-9E1E1B031D71}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\week3ifandswitch\\week3ifandswitch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7EA1615-818D-434B-BB95-9E1E1B031D71}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|solutionrelative:week3ifandswitch\\week3ifandswitch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56FCB0E0-2C7E-402D-ADF4-06573070E3A9}|OddOrEven\\OddOrEven.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56FCB0E0-2C7E-402D-ADF4-06573070E3A9}|OddOrEven\\OddOrEven.csproj|solutionrelative:oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33381D68-EB15-4435-A162-1E5F4E3F01A5}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\switchdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33381D68-EB15-4435-A162-1E5F4E3F01A5}|SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj|solutionrelative:switchdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EA1615-818D-434B-BB95-9E1E1B031D71}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\week3ifandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EA1615-818D-434B-BB95-9E1E1B031D71}|Week3IfAndSwitch\\Week3IfAndSwitch.csproj|solutionrelative:week3ifandswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EAE4DF-353A-4EE7-9796-0E67C853B282}|IfDayOfTheWeek\\IfDayOfTheWeek.csproj|c:\\users\\mursa\\source\\repos\\week3ifandswitch\\ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EAE4DF-353A-4EE7-9796-0E67C853B282}|IfDayOfTheWeek\\IfDayOfTheWeek.csproj|solutionrelative:ifdayoftheweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
+              "RelativeDocumentMoniker": "OddOrEven\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\OddOrEven\\Program.cs",
+              "RelativeToolTip": "OddOrEven\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:48:08.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week3IfAndSwitch",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Week3IfAndSwitch.csproj",
+              "RelativeDocumentMoniker": "Week3IfAndSwitch\\Week3IfAndSwitch.csproj",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Week3IfAndSwitch.csproj",
+              "RelativeToolTip": "Week3IfAndSwitch\\Week3IfAndSwitch.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:10:49.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchDayOfTheWeek",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj",
+              "RelativeDocumentMoniker": "SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj",
+              "RelativeToolTip": "SwitchDayOfTheWeek\\SwitchDayOfTheWeek.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T11:11:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchDayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\SwitchDayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "SwitchDayOfTheWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:10:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\Program.cs",
+              "RelativeDocumentMoniker": "IfDayOfTheWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\IfDayOfTheWeek\\Program.cs",
+              "RelativeToolTip": "IfDayOfTheWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:56:45.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "Week3IfAndSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\Week3IfAndSwitch\\Week3IfAndSwitch\\Program.cs",
+              "RelativeToolTip": "Week3IfAndSwitch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:40:52.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
